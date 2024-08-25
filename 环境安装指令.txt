@@ -1,0 +1,17 @@
+
+
+conda create --name jlyenv python=3.8.5
+
+conda activate jlyenv
+
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+pip install numpy==1.22.3
+
+pip install torchmetrics==1.0.1
+
+pip install matplotlib==3.5.2
+
+pip install scikit-learn==1.1.1
+
+代码内
+修改数据的绝对地址
