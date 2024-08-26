@@ -37,7 +37,7 @@ huashan
 
 # WUCF
 
-![image.png](Read%20Me%20914d5639974d425388a226b8a631ae29/image%201.png)
+![Read%20Me%20914d5639974d425388a226b8a631ae29/image%201.png](https://github.com/BioCenter-SHU/DCLCN/blob/main/DCLCN.png)
 
 分类损失cls：源中心1、2和他们的真实标签的损失计算。
 
